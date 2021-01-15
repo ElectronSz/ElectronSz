@@ -38,6 +38,7 @@
 
 ## Github Stats
 ![ElectronSz's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true)
+
 ![ElectronSz's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectronSz)
 
 ## Follow me around the web
