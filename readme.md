@@ -35,7 +35,7 @@
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![Sublime](https://img.shields.io/badge/Sublime-4C4C4C?style=flat-square&logo=Sublime)](https://www.sublimetext.com/)
+[![Sublime](https://img.shields.io/badge/IDE-Sublime-4C4C4C?style=flat-square&logo=Sublime-text)](https://www.sublimetext.com/)
 
 
 ## Social media :mailbox_with_no_mail:
