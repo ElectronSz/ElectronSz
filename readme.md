@@ -30,7 +30,13 @@
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://www.ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=Windows&logoColor=0078d7)](https://www.microsoft.com/en-us/windows/)
-[![Debian](https://img.shields.io/badge/Debian-10-red?style=flat-square&logo=Debian&logoColor=d70a53)](https://www.debian.org/)
+[![Debian](https://img.shields.io/badge/Debian-10-d70a53?style=flat-square&logo=Debian&logoColor=d70a53)](https://www.debian.org/)
+
+
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![Sublime](https://img.shields.io/badge/Sublime-4C4C4C?style=flat-square&logo=Sublime)](https://www.sublimetext.com/)
+
 
 ## Social media :mailbox_with_no_mail:
 
