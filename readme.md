@@ -29,6 +29,8 @@
 ## Operating System & Tools
 
 [![centOS](https://img.shields.io/badge/Ubuntu-20.04-orange?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://www.ubuntu.com/)
+[![centOS](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=Windows&logoColor=0078d7)](https://www.microsoft.com/en-us/windows/)
+
 
 ## Social media :mailbox_with_no_mail:
 
