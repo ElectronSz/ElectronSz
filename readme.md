@@ -1,14 +1,13 @@
-<img width="274" height="237" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ArkVTP_p--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/e01e310f132c/Image%25202019-09-30%2520at%25206.27.51%2520PM.png">
+<img width="274" height="237" src="https://static1.squarespace.com/static/5e10bdc20efb8f0d169f85f9/5e949913434baa2223121b85/5ea31b8637b9950ce4a36f5f/1603016121078/music.png?format=1500w">
 
 
 # Hi, I'm Lwazi Ciniso Dlamini 👋
 
 - 🔭 I'm currently working as a Chief Technology Officer (CTO) at [SinaweTech](https://www.sinawetech.com/)
-- 😎 I'm one of the maintainers of [Go Fiber](https://github.com/gofiber/fiber)
-- 🌱 Most technical challenges i solve with Golang, Python, Nodejs in the backend and Vuejs
+- 👨‍💻 Most technical challenges i solve with Golang, Python, Nodejs in the backend and Vuejs
 - 🔧 I'm very interested in quality & clean code, performance optimizations and have good skills to find and solve bugs
-- 🥊 🥋 In my spare time i go hiking, play video games(Call Of Duty) and find more bugs to solve
-- 📫 Reach me out: dlaminilwaziciniso@gmail.com || [electronsz.github.io](https://www.electronsz.github.io/)
+- 🥾 🎮 In my spare time i go hiking, play video games (Call Of Duty) and find more bugs to solve
+- 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
 ## Social media :mailbox_with_no_mail:
 
