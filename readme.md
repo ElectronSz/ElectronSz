@@ -38,10 +38,6 @@
 [![Sublime](https://img.shields.io/badge/IDE-Sublime-4C4C4C?style=flat-square&logo=Sublime-text)](https://www.sublimetext.com/)
 
 
-## Social media :mailbox_with_no_mail:
-
-[![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com/in/electronsz)](https://www.linkedin.com/in/electronsz/)
-
-
-
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true)
+
+[![HitCount](http://hits.dwyl.com/ElectronSz/ElectronSz.svg)](http://hits.dwyl.com/ElectronSz/ElectronSz)
