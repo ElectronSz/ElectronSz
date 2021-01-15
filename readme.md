@@ -37,7 +37,7 @@
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![Sublime](https://img.shields.io/badge/IDE-Sublime-4C4C4C?style=flat-square&logo=Sublime-text)](https://www.sublimetext.com/)
 
-
+## Github Stats
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true)
 
 ## Follow me around the web
