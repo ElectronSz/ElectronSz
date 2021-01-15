@@ -1,4 +1,4 @@
-<img width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718081_gopher-clip-art-png-clipart.png">
+<img width="274" height="237" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ArkVTP_p--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/e01e310f132c/Image%25202019-09-30%2520at%25206.27.51%2520PM.png">
 
 
 # Hi, I'm Lwazi Ciniso Dlamini 👋
