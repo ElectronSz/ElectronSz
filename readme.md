@@ -37,9 +37,8 @@
 [![Sublime](https://img.shields.io/badge/IDE-Sublime-4C4C4C?style=flat-square&logo=Sublime-text)](https://www.sublimetext.com/)
 
 ## Github Stats
-![ElectronSz's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true)
+![ElectronSz's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true&theme=radical)
 
-![ElectronSz's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectronSz)
 
 ## Follow me around the web
 
