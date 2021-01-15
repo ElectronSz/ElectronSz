@@ -25,6 +25,11 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
+
+## Operating System & Tools
+
+[![centOS](https://img.shields.io/badge/Ubuntu-20.04-blue?style=flat-square&logo=Ubuntu&logoColor=262577)](https://www.centos.org/)
+
 ## Social media :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com/in/electronsz)](https://www.linkedin.com/in/electronsz/)
