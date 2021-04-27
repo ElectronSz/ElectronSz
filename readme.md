@@ -11,7 +11,7 @@
 
 ## Wakatime Stats
 
-![ElectronSz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElectronSz)
+![ElectronSz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElectronSz&layout=compact)
 
 ## Technology Stack
 
