@@ -9,6 +9,10 @@
 - 🥾 🎮 In my spare time i go hiking, play video games (Call Of Duty) and find more bugs to solve
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
+## Wakatime Stats
+
+![ElectronSz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElectronSz)
+
 ## Technology Stack
 
 #### Languages
