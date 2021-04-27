@@ -32,7 +32,7 @@
 
 #### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectronSz&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectronSz&layout=compact)
 
 ## Operating System & Tools
 
