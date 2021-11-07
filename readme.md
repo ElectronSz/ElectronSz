@@ -4,9 +4,9 @@
 # Hi, I'm Lwazi Ciniso Dlamini 👋
 
 - 🔭 I'm currently working as a Chief Technology Officer (CTO) at [SinaweTech](https://www.sinawetech.com/)
-- 👨‍💻 Most technical challenges i solve with Golang, Python, Nodejs in the backend and Vuejs in the frontend
-- 🔧 I'm very interested in quality & clean code, performance optimizations and have good skills to find and solve bugs
-- 🥾 🎮 In my spare time i go hiking, play video games (Call Of Duty) and find more bugs to solve
+- 👨‍💻 Most technical challenges I solve with Golang, Python, Nodejs for backend, Vuejs, Tailwind for frontend and Flutter for (Andriod & IOS) apps
+- 🔧 I'm very interested in quality & clean code, performance optimizations and have good skills in debugging
+- 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
 ## Wakatime Stats
