@@ -9,9 +9,9 @@
 - 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
-## Wakatime Stats
+## Dev Card
 
-![ElectronSz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElectronSz&layout=compact)
+<a href="https://app.daily.dev/electronsz"><img src="https://api.daily.dev/devcards/1c8f8ba3f85e45baaf57c09575001675.png?r=lsb" width="400" alt="Lwazi Ciniso Dlamini's Dev Card"/></a>
 
 ## Technology Stack
 
