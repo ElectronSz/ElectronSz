@@ -1,16 +1,24 @@
 <img width="274" height="237" src="https://static1.squarespace.com/static/5e10bdc20efb8f0d169f85f9/5e949913434baa2223121b85/5ea31b8637b9950ce4a36f5f/1603016121078/music.png?format=1500w">
 
-<h1 align="center">Hi, I'm Lwazi Ciniso Dlamini 👋</h1>
+<h1 align="left">Hi, I'm Lwazi Ciniso Dlamini 👋</h1>
+
+## I'm a **Software Engineer** 💻
+
+<hr>
 
 - 🔭 I'm currently working as a Chief Technology Officer (CTO) at [SinaweTech](https://www.sinawetech.com/)
-- 👨‍💻 I solve technical challenges with Golang, Python, Nodejs for backend, Vuejs, Tailwind for frontend and Flutter for (Andriod & IOS) apps
+- 👨‍💻 I solve technical challenges with Golang, Python, Nodejs for backend, Vue3, Vuetify3, Tailwind for frontend and Flutter for (Andriod & IOS) apps
 - 🔧 I'm very interested in quality & clean code, performance optimizations and have good skills in debugging
+
+- 🌱 I’m currently learning **Typescript, Julia and Quantum Computing**
+
 - 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
 
-
 ## Technology Stack
+
+<hr>
 
 #### Languages
 
@@ -40,7 +48,7 @@
 ## Operating System & Tools
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-orange?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://www.ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=Windows&logoColor=0078d7)](https://www.microsoft.com/en-us/windows/)
+[![Windows](https://img.shields.io/badge/Windows-11-blue?style=flat-square&logo=Windows&logoColor=0078d7)](https://www.microsoft.com/en-us/windows/)
 [![Debian](https://img.shields.io/badge/Debian-10-d70a53?style=flat-square&logo=Debian&logoColor=d70a53)](https://www.debian.org/)
 
 
