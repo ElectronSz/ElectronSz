@@ -1,7 +1,6 @@
 <img width="274" height="237" src="https://static1.squarespace.com/static/5e10bdc20efb8f0d169f85f9/5e949913434baa2223121b85/5ea31b8637b9950ce4a36f5f/1603016121078/music.png?format=1500w">
 
-
-# Hi, I'm Lwazi Ciniso Dlamini 👋
+<h1 align="center">Hi, I'm Lwazi Ciniso Dlamini 👋</h1>
 
 - 🔭 I'm currently working as a Chief Technology Officer (CTO) at [SinaweTech](https://www.sinawetech.com/)
 - 👨‍💻 I solve technical challenges with Golang, Python, Nodejs for backend, Vuejs, Tailwind for frontend and Flutter for (Andriod & IOS) apps
@@ -9,9 +8,7 @@
 - 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
-## Dev Card
 
-<a href="https://app.daily.dev/electronsz"><img src="https://api.daily.dev/devcards/1c8f8ba3f85e45baaf57c09575001675.png?r=lsb" width="400" alt="Lwazi Ciniso Dlamini's Dev Card"/></a>
 
 ## Technology Stack
 
