@@ -15,6 +15,8 @@
 - 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
 - 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
 
+## Wakatime Stats
+[![wakatime](https://wakatime.com/badge/user/437c19e5-05f1-4cf8-911b-3dc04c070b98.svg)](https://wakatime.com/@437c19e5-05f1-4cf8-911b-3dc04c070b98)
 
 ## Technology Stack
 
