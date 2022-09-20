@@ -6,7 +6,7 @@
 
 <hr>
 
-- 🔭 I'm currently working as a Chief Technology Officer (CTO) at [SinaweTech](https://www.sinawetech.com/)
+- 🔭 I'm currently working as a Chief Technology Officer (CTO)
 - 👨‍💻 I solve technical challenges with Golang, Python, Nodejs for backend, Vue3, Vuetify3, Tailwind for frontend and Flutter for (Andriod & IOS) apps
 - 🔧 I'm very interested in quality & clean code, performance optimizations and have good skills in debugging
 
