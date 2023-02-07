@@ -57,7 +57,7 @@
 [![Sublime](https://img.shields.io/badge/IDE-Sublime-4C4C4C?style=flat-square&logo=Sublime-text)](https://www.sublimetext.com/)
 
 ## Music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b4v6dtdoa2c43x14y6go3am3x&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Playwords)
 
 ## Github Stats
 ![ElectronSz's github stats](https://github-readme-stats.vercel.app/api?username=ElectronSz&show_icons=true&theme=radical)
