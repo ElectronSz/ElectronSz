@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Lwazi Ciniso Dlamini 👋</h1>
 
-## I'm a **Software Engineer** 💻
+## I'm a **Software Engineer** [![wakatime](https://wakatime.com/badge/user/437c19e5-05f1-4cf8-911b-3dc04c070b98.svg)](https://wakatime.com/@437c19e5-05f1-4cf8-911b-3dc04c070b98) 💻
 
 <hr>
 
