@@ -20,7 +20,6 @@
 
 <hr>
 
-#### Wakatime Stats
 [![ElectronSz WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElectronSz&layout=compact)]
 
 #### Languages
