@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Typescript, Julia and Quantum Computing**
 
 - 🥾 🎮 In my spare time I write sing, go hiking, play video games (Call Of Duty & PUBG) and find more bugs to squash
-- 📫 Reach me out: dlaminilwaziciniso@gmail.com | [electronsz.github.io](https://www.electronsz.github.io/)
+- 📫 Reach me out: lwazi@offbytesecure.com | [https://offbytesecure.com](https://www.offbytesecure.com)
 
 
 ## Technology Stack
