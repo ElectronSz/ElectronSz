@@ -16,12 +16,14 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Founder @OffbyteSecure™
-- 🚀 Building: [Webber](https://github.com/ElectronSz/webber) (fast BunJS web framework) and [Stabilize ORM](https://github.com/ElectronSz/stabilize-orm) (Bun-native ORM)
-- 👨‍💻 I solve problems with Go, Python, NodeJS, Vue3, Tailwind, and Flutter for cross-platform apps
-- 💡 Passionate about clean code, debugging, optimization, and performance
-- 🌱 Currently learning: **TypeScript, Julia, Quantum Computing, and more BunJS internals**
-- 🧪 Always experimenting with new tech and approaches
-- 🥾 🎮 On weekends: hiking, gaming (COD, PUBG), making music, or bug hunting
+- 🚀 Building:
+  - [**Webber**](https://github.com/ElectronSz/webber): A blazing-fast web server for Go, inspired by Nginx. Supports static file hosting (optimized for Vue.js, React, Angular, and SPAs), reverse proxying, WebSocket, rate limiting, gzip compression, in-memory caching, HTTP/2, and TLS out of the box.
+  - [**Stabilize ORM**](https://github.com/ElectronSz/stabilize-orm): A lightweight, type-safe ORM for Bun.js with unified support for SQLite, MySQL, PostgreSQL, and Redis caching. Features connection pooling, retry logic, transactions, decorators, and a clean repository pattern.
+- 👨‍💻 I solve problems with Go, Python, NodeJS, Vue3, Tailwind, and Flutter for cross-platform apps.
+- 💡 Passionate about clean code, debugging, optimization, and performance.
+- 🌱 Currently learning: **TypeScript, Julia, Quantum Computing, and more BunJS internals**.
+- 🧪 Always experimenting with new tech and approaches.
+- 🥾 🎮 On weekends: hiking, gaming (COD, PUBG), making music, or bug hunting.
 
 ---
 
