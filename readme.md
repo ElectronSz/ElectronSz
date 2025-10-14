@@ -5,6 +5,7 @@
 <p>
   <b>Software Engineer | Creator of <a href="https://github.com/ElectronSz/webber">Webber</a> & <a href="https://github.com/ElectronSz/stabilize-orm">Stabilize ORM</a></b>
   <br>
+  <br>
   <a href="https://wakatime.com/@437c19e5-05f1-4cf8-911b-3dc04c070b98">
     <img src="https://wakatime.com/badge/user/437c19e5-05f1-4cf8-911b-3dc04c070b98.svg" alt="wakatime">
   </a>
