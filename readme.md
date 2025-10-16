@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Ciniso Dlamini 👋</h1>
 
 <p>
-  <b>Software Engineer | Creator of <a href="https://github.com/ElectronSz/webber">Webber</a> & <a href="https://github.com/ElectronSz/stabilize-orm">Stabilize ORM</a></b>
+  <b>Software Engineer | Creator of <a href="https://github.com/ElectronSz/webber">Webber</a>, <a href="https://github.com/ElectronSz/stabilize-orm">Stabilize ORM</a> & <a href="https://github.com/ElectronSz/stabilize-cli">Stabilize CLI</a></b>
   <br>
   <br>
   <a href="https://wakatime.com/@437c19e5-05f1-4cf8-911b-3dc04c070b98">
@@ -19,6 +19,7 @@
 - 🚀 Building:
   - [**Webber**](https://github.com/ElectronSz/webber): A blazing-fast web server for Go, inspired by Nginx. Supports static file hosting (optimized for Vue.js, React, Angular, and SPAs), reverse proxying, WebSocket, rate limiting, gzip compression, in-memory caching, HTTP/2, and TLS out of the box.
   - [**Stabilize ORM**](https://github.com/ElectronSz/stabilize-orm): A lightweight, type-safe ORM for Bun.js with unified support for SQLite, MySQL, PostgreSQL, and Redis caching. Features connection pooling, retry logic, transactions, decorators, and a clean repository pattern.
+  - [**Stabilize CLI**](https://github.com/ElectronSz/stabilize-cli): The official companion tool for Stabilize ORM—generate models, migrations, and seed files, manage your schema and workflow, and automate database tasks from the terminal.
 - 👨‍💻 I solve problems with Go, Typescript, Python, Bun, NextJs, Vue3, Tailwind, and Flutter/React Native for cross-platform apps.
 - 💡 Passionate about clean code, debugging, optimization, and performance.
 - 🌱 Currently learning: **Generative AI, Julia, Quantum Computing, and more BunJS internals**.
@@ -85,6 +86,20 @@
 
 ---
 
+## 💡 Featured Projects
+
+🚀 [**Stabilize ORM**](https://github.com/ElectronSz/stabilize-orm)
+> Modern, type-safe ORM for Bun, Node, Deno, and more. Unified API, powerful decorators, blazing performance, soft delete, versioning, and more.
+
+🛠️ [**Stabilize CLI**](https://github.com/ElectronSz/stabilize-cli)
+> The official CLI for Stabilize ORM. Instantly scaffold models, migrations, seed files, and automate your database workflow from the terminal.  
+> Supports multi-column/multi-row seeding, lifecycle hooks, soft deletes, time-travel versioning and more.
+
+⚡ [**Webber**](https://github.com/ElectronSz/webber)
+> Blazing-fast web server for Go, inspired by Nginx. Features static file hosting, reverse proxy, WebSocket, HTTP/2, TLS, and more.
+
+---
+
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/electronsz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -101,3 +116,11 @@
 ---
 
 > **Building with passion, learning every day, and always exploring new tech. If you love performance, clean code, and cool tools—let's connect!**
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ElectronSz/stabilize-orm/main/docs/stabilize-banner.svg" width="400" alt="Stabilize ORM Banner"/>
+
+</div>
