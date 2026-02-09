@@ -1,6 +1,6 @@
 # Hi, I'm Ciniso Dlamini 👋
 
-![Peak Streams Logo](./peakstreams.png)
+![Peak Streams Logo](https://peak-streams.vercel.app/peakstreams.png)
 
 **Software Engineer | Creator of [Webber](https://github.com/ElectronSz/webber), [Stabilize ORM](https://github.com/ElectronSz/stabilize-orm), [Stabilize CLI](https://github.com/ElectronSz/stabilize-cli) & [Peak Streams](https://github.com/ElectronSz/peakstreams)**
 
